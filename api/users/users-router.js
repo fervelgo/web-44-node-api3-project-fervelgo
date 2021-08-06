@@ -8,7 +8,7 @@ const router = express.Router();
 router.get('/', (req, res) => {
   // RETURN AN ARRAY WITH ALL THE USERS
 
-  asdfñasdjfk
+  asdfñasdjfkfasdfasdf
 });
 
 router.get('/:id', (req, res) => {
